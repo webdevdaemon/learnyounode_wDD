@@ -5,3 +5,4 @@ argz.map(function(value, index) {
 	return value;
 });
 console.log(sum);
+// return sum;
